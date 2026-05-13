@@ -1,4 +1,4 @@
-# 
+# custom NFT Mint Bot for nft wash trading bot | mint-detection & auto-buy is the best nft wash trading bot, featuring mint-detection and auto-buy. Fast, smart, and optimized for
 
 
 
